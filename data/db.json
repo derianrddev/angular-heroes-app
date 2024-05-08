@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "usuario": "John Doe",
+      "user": "John Doe",
       "email": "john.due@gmail.com"
     }
   ],
@@ -21,8 +21,7 @@
       "publisher": "DC Comics",
       "alter_ego": "Kal-El",
       "first_appearance": "Action Comics #1",
-      "characters": "Kal-El",
-      "alt_img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cb01232e-ee66-4d54-aa6d-fb893d26e469/dg94cx6-d21f7536-3df0-42a3-83bd-d3b6c193fabf.jpg/v1/fill/w_1280,h_1280,q_75,strp/superman_comic_book_style_by_kajiroart_dg94cx6-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NiMDEyMzJlLWVlNjYtNGQ1NC1hYTZkLWZiODkzZDI2ZTQ2OVwvZGc5NGN4Ni1kMjFmNzUzNi0zZGYwLTQyYTMtODNiZC1kM2I2YzE5M2ZhYmYuanBnIiwiaGVpZ2h0IjoiPD0xMjgwIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvY2IwMTIzMmUtZWU2Ni00ZDU0LWFhNmQtZmI4OTNkMjZlNDY5XC9rYWppcm9hcnQtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.M0wHr2ydz5_YHpZtY4SIPNGSj1EUSxiRTcYKNpHDWHI"
+      "characters": "Kal-El"
     },
     {
       "id": "dc-flash",
